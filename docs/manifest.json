@@ -1,7 +1,7 @@
 {
-  "name": "App Store",
-  "short_name": "App Store",
-  "description": "App Store",
+  "name": "Doge Dock",
+  "short_name": "Doge Dock",
+  "description": "Doge Dock",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
